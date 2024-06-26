@@ -1,0 +1,1 @@
+Design of a school campus with 3 different blocks ( arts science commerce )every building has each distribution switch that is connected with access switch with each floor of building all three distribution switches are connected to a core switch in server room   ( this network is not configured yet )
